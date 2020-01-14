@@ -756,13 +756,13 @@ a.more-details .fa{
     background-image: url('../img/page-titles/page-title-2.jpg');  
 }
 .page-title-3 {
-    background-image: url('../img/page-titles/page-title-3.jpg');  
+    background-image: url('../img/four.jpeg');  
 }
 .page-title-4 {
-    background-image: url('../img/page-titles/page-title-4.jpg');  
+    background-image: url('../img/five.jpeg');  
 }
 .page-title-5 {
-    background-image: url('../img/c1-min.JPG');  
+    background-image: url('../img/special.jpeg');  //c1-min.JPG
 }
 .page-title-6 {
     background-image: url('../img/page-titles/page-title-6.jpg');  
@@ -822,19 +822,20 @@ a.more-details .fa{
     background-image: url('../img/pics/bkg-img2.png');  
 }
 .bkg-img3 {
-    background-image: url('../img/home1-min.jpg');  
+    background-image: url('../img/home1.jpeg');  
 }
 .bkg-img4 {
-    background-image: url('../img/home2-min.jpg');  
+    background-image: url('../img/exceptionalbanner.jpeg');  
+
 }
 .bkg-img5 {
     background-image: url('../img/enjoy.jpeg');  
 }
 .bkg-img6 {
-    background-image: url('../img/a3-min.JPG');  
+    background-image: url('../img/pavbhaji.jpeg');  
 }
 .bkg-img7 {
-    background-image: url('../img/a6-min.JPG');  
+    background-image: url('../img/aboutstaff.jpeg');  
 }
 .bkg-img8 {
     background-image: url('../img/pics/bkg-img8.jpg');  
@@ -864,7 +865,7 @@ a.more-details .fa{
     background-image: url('../img/pics/bkg-img16.jpg');  
 }
 .bkg-img17 {
-    background-image: url('../img/c2-min.JPG');  
+    background-image: url('../img/catservice.jpeg');  
 }
 .bkg-img18 {
     background-image: url('../img/pics/bkg-img18.jpg');  
@@ -873,7 +874,7 @@ a.more-details .fa{
     background-image: url('../img/pics/bkg-img19.jpg');  
 }
 .bkg-img20 {
-    background-image: url('../img/pics/bkg-img20.jpg');  
+    background-image: url('../img/say.jpeg');  
 }
 .bkg-img21 {
     background-image: url('../img/pics/bkg-img21.jpg');  
@@ -2059,6 +2060,7 @@ ul#filters {
 .menu-sample.style-2 figcaption {
     padding: 30px;
 }
+
 
 /* ==========================================================================
     7.11.3. MENU PACKAGE STYLE 3
